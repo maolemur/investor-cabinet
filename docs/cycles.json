@@ -1,0 +1,338 @@
+[
+  {
+    "number": 4,
+    "name": "Парк Победы",
+    "apartment": 74,
+    "start": "03.07.2024",
+    "end": "14.10.2024",
+    "purchase": 3650000,
+    "repair": 521877,
+    "total": 4171877,
+    "sale": 4900000,
+    "profit": 728123,
+    "roi": "17,45",
+    "investors": [
+      {
+        "amount": 3949877,
+        "roi": "8,73",
+        "profit": 344824,
+        "income": 4294701
+      },
+      {
+        "amount": 222000,
+        "roi": "8,73",
+        "profit": 19381,
+        "income": 241381
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "name": "Самолет-4",
+    "apartment": 276,
+    "start": "08.10.2024",
+    "end": "30.01.2025",
+    "purchase": 2837000,
+    "repair": 474828,
+    "total": 3311828,
+    "sale": 3800000,
+    "profit": 488172,
+    "roi": "14,74",
+    "investors": [
+      {
+        "amount": 3311828,
+        "roi": "8,45",
+        "profit": 280000,
+        "income": 3591828
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "name": "Хорошая Погода",
+    "apartment": 109,
+    "start": "23.10.2024",
+    "end": "26.12.2024",
+    "purchase": 2684000,
+    "repair": 504065,
+    "total": 3188065,
+    "sale": 3750000,
+    "profit": 561935,
+    "roi": "17,63",
+    "investors": [
+      {
+        "amount": 1992000,
+        "roi": "8,20",
+        "profit": 163344,
+        "income": 2155344
+      },
+      {
+        "amount": 1000000,
+        "roi": "8,20",
+        "profit": 82000,
+        "income": 1082000
+      },
+      {
+        "amount": 77654,
+        "roi": "8,20",
+        "profit": 6368,
+        "income": 84022
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "name": "Три Кита",
+    "apartment": 75,
+    "start": "06.11.2024",
+    "end": "09.04.2025",
+    "purchase": 4015000,
+    "repair": 927145,
+    "total": 4942145,
+    "sale": 5650000,
+    "profit": 707855,
+    "roi": "14,32",
+    "investors": [
+      {
+        "amount": 4414670,
+        "roi": "7,16",
+        "profit": 316090,
+        "income": 4730760
+      },
+      {
+        "amount": 319000,
+        "roi": "7,16",
+        "profit": 22840,
+        "income": 341840
+      },
+      {
+        "amount": 208475,
+        "roi": "8,59",
+        "profit": 17908,
+        "income": 226383
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "name": "Россинский Парк",
+    "apartment": 141,
+    "start": "27.02.2025",
+    "end": "14.07.2025",
+    "purchase": 3859000,
+    "repair": 1071670,
+    "total": 4930670,
+    "sale": 5550000,
+    "profit": 619331,
+    "roi": "12,56",
+    "investors": [
+      {
+        "amount": 4930670,
+        "roi": "7,32",
+        "profit": 360925,
+        "income": 5291595
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "name": "Новелла",
+    "apartment": 87,
+    "start": "05.04.2025",
+    "end": "23.06.2025",
+    "purchase": 5100000,
+    "repair": 939243,
+    "total": 6039243,
+    "sale": 6750000,
+    "profit": 710757,
+    "roi": "11,77",
+    "investors": [
+      {
+        "amount": 1000000,
+        "roi": "7,50",
+        "profit": 75000,
+        "income": 1075000
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "name": "Хорошая Погода",
+    "apartment": 260,
+    "start": "22.09.2025",
+    "end": "22.01.2026",
+    "purchase": 2942500,
+    "repair": 812526,
+    "total": 3755026,
+    "sale": 4300000,
+    "profit": 544974,
+    "roi": "14,51",
+    "investors": [
+      {
+        "amount": 3755026,
+        "roi": "7,26",
+        "profit": 272487,
+        "income": 4027513
+      }
+    ]
+  },
+  {
+    "number": 13,
+    "name": "Абрикосово",
+    "apartment": 457,
+    "start": "20.10.2025",
+    "end": "12.01.2026",
+    "purchase": 3120000,
+    "repair": 790073,
+    "total": 3910073,
+    "sale": 4450000,
+    "profit": 539927,
+    "roi": "13,81",
+    "investors": [
+      {
+        "amount": 2000000,
+        "roi": "6,90",
+        "profit": 138086,
+        "income": 2138086
+      },
+      {
+        "amount": 1500000,
+        "roi": "6,90",
+        "profit": 103500,
+        "income": 1603500
+      },
+      {
+        "amount": 410000,
+        "roi": "6,90",
+        "profit": 28290,
+        "income": 438290
+      }
+    ]
+  },
+  {
+    "number": 14,
+    "name": "Парк Победы",
+    "apartment": 231,
+    "start": "16.01.2026",
+    "end": "26.03.2026",
+    "purchase": 4059500,
+    "repair": 901164,
+    "total": 4960664,
+    "sale": 5650000,
+    "profit": 689336,
+    "roi": "13,90",
+    "investors": [
+      {
+        "amount": 2000000,
+        "roi": "6,95",
+        "profit": 138960,
+        "income": 2138960
+      },
+      {
+        "amount": 2107000,
+        "roi": "8,34",
+        "profit": 175674,
+        "income": 2282674
+      },
+      {
+        "amount": 853664,
+        "roi": "6,95",
+        "profit": 59313,
+        "income": 912977
+      }
+    ]
+  },
+  {
+    "number": 15,
+    "name": "Хорошая Погода",
+    "apartment": 87,
+    "start": "27.01.2026",
+    "end": "27.04.2026",
+    "purchase": 4109000,
+    "repair": 1173656,
+    "total": 5282656,
+    "sale": 6000000,
+    "profit": 717344,
+    "roi": "13,58",
+    "investors": [
+      {
+        "amount": 1482656,
+        "roi": "6,79",
+        "profit": 100667,
+        "income": 1583323
+      },
+      {
+        "amount": 3800000,
+        "roi": "6,79",
+        "profit": 258005,
+        "income": 4058005
+      }
+    ]
+  },
+  {
+    "number": 16,
+    "name": "Россинский Парк",
+    "apartment": 125,
+    "start": "16.03.2026",
+    "end": "16.07.2026",
+    "purchase": 4259000,
+    "repair": 1374360,
+    "total": 5633360,
+    "sale": 6750000,
+    "profit": 1116640,
+    "roi": "19,82",
+    "investors": [
+      {
+        "amount": 2500000,
+        "roi": "9,91",
+        "profit": 247774,
+        "income": 2747774
+      },
+      {
+        "amount": 2300000,
+        "roi": "9,91",
+        "profit": 227952,
+        "income": 2527952
+      },
+      {
+        "amount": 300000,
+        "roi": "9,91",
+        "profit": 29733,
+        "income": 329733
+      },
+      {
+        "amount": 534572,
+        "roi": "9,30",
+        "profit": 49715,
+        "income": 584287
+      }
+    ]
+  },
+  {
+    "number": 17,
+    "name": "Парк Победы",
+    "apartment": 319,
+    "start": "20.05.2026",
+    "end": "29.07.2026",
+    "purchase": 4159000,
+    "repair": 932980,
+    "total": 5091980,
+    "sale": 6100000,
+    "profit": 1008020,
+    "roi": "19,80",
+    "investors": [
+      {
+        "amount": 4059000,
+        "roi": "9,90",
+        "profit": 401764,
+        "income": 4460764
+      },
+      {
+        "amount": 1033000,
+        "roi": "9,90",
+        "profit": 102248,
+        "income": 1135248
+      }
+    ]
+  }
+]
